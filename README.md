@@ -3,14 +3,14 @@
 </h1>
 
 <h1 align="center">
-    
+    <img src="https://raw.githubusercontent.com/fisiofaz/Alurinha/main/img/logos/renadme.png">
 </h1>
 
 
 
 ## Sobre
 
-Multi-Universo Spider-Man é um projecto desenvolvido no curso sobre HTML5, CSS3 da [DIO](https://web.dio.me/), com a finalidade de praticar os conhecimentos adquiridos durante o curso.
+Alurinha é um projecto desenvolvido no curso sobre HTML5, CSS3 da [Alura]([https://web.dio.me/](https://cursos.alura.com.br/course/posicione-elementos-com-flexbox)), com a finalidade de praticar os conhecimentos adquiridos durante o curso.
 
 ---
 
